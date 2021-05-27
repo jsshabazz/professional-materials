@@ -123,3 +123,9 @@ li {
 .portfoliobtn {
   position: absolute;
 }
+
+.portfoliotitle,.portfoliobtn { margin: 10px;
+  
+} 
+
+

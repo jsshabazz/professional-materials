@@ -89,6 +89,7 @@ li {
 
 .contact {
   margin-bottom: 20px;
+  margin-top: 400px;
   padding: 50px;
   height: 300px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -112,3 +113,10 @@ li {
 .footer h2 {
   font-size: 20px;
 }
+
+.jumbotron {
+  background-image: url("https://blog.hotmart.com/blog/2018/10/BLOG_O-que-e-video-marketing-e-quais-sao-seus-beneficios1-670x419.png");
+  background-size: cover; 
+  height: 450px;
+}
+
